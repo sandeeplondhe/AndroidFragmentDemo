@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="NewApi">
+        <ignore path="src/com/example/androidfragmentdemo/LM_Fragment.java" />
+        <ignore path="src/com/example/androidfragmentdemo/MainActivity.java" />
+        <ignore path="src/com/example/androidfragmentdemo/PM_Fragment.java" />
+    </issue>
+</lint>
